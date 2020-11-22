@@ -5,7 +5,7 @@
 ## Programming for Data Analysis - Assignment 2020
 ## Due: last commit on or before November 22nd, 2020
 
-Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the assignment instructions for the for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Completed the four tasks in a single [Jupyter Notebook](https://github.com/E6985/pda-numpy-random/blob/master/Programming-for-Data-Analysis-Assignment-2020.ipynb) 
+Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the assignment instructions for the for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Completed the four tasks in a single [Jupyter Notebook](https://github.com/E6985/pda-numpy-random/blob/master/Programming-for-Data-Analysis-Assignment-2020.ipynb).
 
 #### Marking Scheme
 1. ``25%`` - Research - Investigation of the package as demonstrated by references, background information, and approach.
@@ -21,7 +21,7 @@ Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technolo
 
 1. Research:
 
-	- ***Investigation of the package as demonstrated by references, background information, and approach***: Each topic/section will have its own ``Reference`` area - topic/section 1 will be referenced as ``1.?`` - topic/section 2 will be referenced as ``2.?`` - and so on. Where possible references will be in the format:
+	- ***Investigation of the package as demonstrated by references, background information, and approach***: References will be in the format:
 
 		- [task-number.number] authorNames, referenceTitle, locationWebsiteBookVideo, dateMonthYear.
 
@@ -65,4 +65,32 @@ Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technolo
 
 #### Coding Conventions
 
-- ``Getting Started`` > ``Development``
+- variable/name/functions - start with letters as follows
+
+| Example       | Signify 		          |
+| ------------- |:-----------------------:|
+|	f        	|	user-defined function |
+
+| Example       | Signify 		          |
+| ------------- |:-----------------------:|
+|	n        	|	name - no variables   |
+
+#### Prerequisites
+
+- Require Python to be loaded on your local machine. Recommend downloading and installing Anaconda.
+
+https://www.anaconda.com/download/
+
+#### Execute Jupyter Notebook
+
+- The software can be downloaded and run on a machine as follows:
+
+	- Clone the repository with the following command:
+
+	``git clone https://github.com/E6985/pda-numpy-random.git``
+
+    - Run Jupyter Notebooks from the repository with the following command:
+
+	``jupyter notebook``
+
+    - Open notebook - Programming-for-Data-Analysis-Assignment-2020.ipynb
