@@ -1,11 +1,43 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/pda-numpy-random/blob/master/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/pda-numpy-random/blob/master/README.md) >
 
 <img src="img/gmit.png" />
 
 ## Programming for Data Analysis - Assignment 2020
 ## Due: last commit on or before November 22nd, 2020
 
-Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the assignment instructions for the for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Completed the four tasks in a single [Jupyter Notebook](https://github.com/E6985/pda-numpy-random/blob/master/Programming-for-Data-Analysis-Assignment-2020.ipynb).
+Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the assignment instructions for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Four tasks completed in a single [Jupyter Notebook](https://github.com/E6985/pda-numpy-random/blob/master/Programming-for-Data-Analysis-Assignment-2020.ipynb).
+
+## Assignment
+
+Assignment concerns the numpy.random package in Python. Required to create a Jupyter Notebook explaining the use of the package, including detailed explanations of at least five of the distributions provided for in the package. Four distinct tasks are carried out in the Jupyter notebook.
+
+Task 1. Explain the overall purpose of the package.
+
+- Keywords: TRNG - PRNG - seed - Epoch - testing - simulation - real-world - modelling - synthesising - variables - distributions - relationship - random - generate - covid-19 - Leaving Certificate - bell curve - standard deviation - normal distribution - predict - numpy - pandas - scipy - matplotlib
+
+- Introduction to the numpy.random package.
+
+Task 2. Explain the use of the “Simple random data” and “Permutations” functions.
+
+- Introduction to each of the simple random data - methods - integers - random - choice - bytes and the permutation - methods - shuffle - permutation.
+
+- Detailed explanation of each methods parameters/return value with plots included when appropriate.    
+
+Task 3. Explain the use and purpose of at least five “Distributions” functions.
+
+- Includes commentary on discrete/continuous probability distributions. Explaining discrete and continuous variables with plots when appropriate.
+
+- Introducing the discrete probability distributions - methods - binomial - poisson. Plots included when appropriate.
+
+- Introducing the continuous probability distributions - methods - normal - uniform - chi-square. Plots included when appropriate.
+
+- Given the detailed explanation of each method parameter in Task 2 - possible overlap - Task 3 is focused on the statistics behind the distributions.   
+
+Task 4. Explain the use of seeds in generating pseudorandom numbers.
+
+- Keywords: chance - predictable - bias - random - PRN - precalculated tables - mathematical formula - RAND - seed - linear congruential generator - Mersenne twister - permutated congruential generator
+
+- Introduction to seeds with examples. Reviewing historical algorithms given there use even today, and the fact todays algorithm build upon.  
 
 #### Marking Scheme
 1. ``25%`` - Research - Investigation of the package as demonstrated by references, background information, and approach.
@@ -83,7 +115,7 @@ https://www.anaconda.com/download/
 
 #### Execute Jupyter Notebook
 
-- The software can be downloaded and run on a machine as follows:
+- The software must be downloaded and run on a machine as follows:
 
 	- Clone the repository with the following command:
 
@@ -94,3 +126,7 @@ https://www.anaconda.com/download/
 	``jupyter notebook``
 
     - Open notebook - Programming-for-Data-Analysis-Assignment-2020.ipynb
+
+    - Once running within the Jupyter environment can navigate with ease - links are plentiful.
+
+	- Notebook links will not work on github given that github renders as static HTML.  
