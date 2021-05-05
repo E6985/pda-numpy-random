@@ -1,11 +1,11 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/pda-numpy-random/blob/master/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/pda-numpy-random/blob/master/README.md) >
 
 <img src="img/gmit.png" />
 
 ## Programming for Data Analysis - Assignment 2020
 ## Due: last commit on or before November 22nd, 2020
 
-Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the assignment instructions for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Four tasks completed in a single [Jupyter Notebook](https://github.com/E6985/pda-numpy-random/blob/master/Programming-for-Data-Analysis-Assignment-2020.ipynb).
+Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the assignment instructions for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Four tasks completed in a single [Jupyter Notebook](https://github.com/SeanOhAileasa/pda-numpy-random/blob/master/Programming-for-Data-Analysis-Assignment-2020.ipynb).
 
 ## Assignment
 
@@ -119,7 +119,7 @@ https://www.anaconda.com/download/
 
 	- Clone the repository with the following command:
 
-	``git clone https://github.com/E6985/pda-numpy-random.git``
+	``git clone https://github.com/SeanOhAileasa/pda-numpy-random.git``
 
     - Run Jupyter Notebooks from the repository with the following command:
 
